@@ -9,7 +9,7 @@
 ### Composer
 
 ```
-composer require gaomingcode/nprogress
+composer require gaomingcode/malihu.scrollbar
 ```
 
 ## ReadMe from Origin
