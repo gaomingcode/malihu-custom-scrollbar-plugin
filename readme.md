@@ -1,5 +1,18 @@
-malihu custom scrollbar plugin
-================================
+# Malihu custom scrollbar plugin
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/malihu-scrollbar.svg)](https://github.com/gaomingcode/malihu-scrollbar)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/malihu.scrollbar)](https://github.com/gaomingcode/malihu-scrollbar)
+[![Github License](https://img.shields.io/github/license/gaomingcode/malihu-scrollbar)](https://github.com/gaomingcode/malihu-scrollbar)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/nprogress
+```
+
+## ReadMe from Origin
 
 Highly customizable custom scrollbar jQuery plugin ([Demo](http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/complete_examples.html)). Features include: 
 

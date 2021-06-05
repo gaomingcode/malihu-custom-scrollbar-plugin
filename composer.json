@@ -1,0 +1,20 @@
+{
+    "name": "gaomingcode/malihu.scrollbar",
+    "description": "Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support user defined callbacks etc.",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "jquery-plugin", "custom-scrollbar", "scrollbar"
+    ],
+    "homepage": "http://manos.malihu.gr/jquery-custom-content-scroller",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Malihu",
+            "url": "http://manos.malihu.gr"
+        }
+    ]
+}
